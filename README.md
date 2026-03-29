@@ -163,4 +163,4 @@ If you use this code in the context of EEG complexity analysis, you may also wis
 
 ## 📄 Licence
 
-[MIT](LICENSE) © 2024 circadia-bio
+[MIT](LICENSE)
