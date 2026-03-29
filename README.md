@@ -4,6 +4,7 @@ Julia implementation of **recurrence-matrix entropy** for quantifying the comple
 
 [![DOI](https://img.shields.io/badge/Chaos-10.1063%2F1.5022154-7F77DD)](https://doi.org/10.1063/1.5022154)
 [![PLOS ONE](https://img.shields.io/badge/PLOS%20ONE-10.1371%2Fjournal.pone.0298703-brightgreen)](https://doi.org/10.1371/journal.pone.0298703)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-2024.01.31.578253-b31b1b)](https://doi.org/10.1101/2024.01.31.578253)
 [![OSF](https://img.shields.io/badge/OSF-CW87P-blue)](https://doi.org/10.17605/OSF.IO/CW87P)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Julia](https://img.shields.io/badge/Julia-≥1.6-9558B2.svg)](https://julialang.org/)
